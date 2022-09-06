@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Atikur",
+        "lastName": "Rahman",
+        "gender": "male",
+        "dob": "1999-01-05",
+        "presentAddress": "N\/A",
+        "permanentAddress": "N\/A",
+        "phone": "0180000001",
+        "email": "atik@gmail.com",
+        "userName": "atik",
+        "password": "1234"
+    },
+    {
+        "firstName": "User",
+        "lastName": "One",
+        "gender": "female",
+        "dob": "2022-03-10",
+        "presentAddress": "n\/A",
+        "permanentAddress": "n\/A",
+        "phone": "1",
+        "email": "user1@gmail.com",
+        "userName": "user1",
+        "password": "1234"
+    },
+    {
+        "firstName": "Atikur Rahman",
+        "lastName": "Milon",
+        "gender": "female",
+        "dob": "2022-03-10",
+        "presentAddress": "kuratoli bazar ,kuril,dhaka",
+        "permanentAddress": "dhaka,bangladesh",
+        "phone": "01775569365",
+        "email": "atikurtgl@gmail.com",
+        "userName": "atikur",
+        "password": "123456789"
+    },
+    {
+        "firstName": "Atikur Rahman",
+        "lastName": "Milon",
+        "gender": "female",
+        "dob": "2022-03-24",
+        "presentAddress": "Atikur",
+        "permanentAddress": "dfsgteghrt",
+        "phone": "01775569365",
+        "email": "atikurtgl@gmail.com",
+        "userName": "atikur5",
+        "password": "123456789"
+    },
+    {
+        "firstName": "atikur",
+        "lastName": "rahman",
+        "gender": "male",
+        "dob": "2022-04-11",
+        "presentAddress": "fds",
+        "permanentAddress": "fsvfs",
+        "phone": "01778896954",
+        "email": "atikurttt@gmail.com",
+        "userName": "atikut5",
+        "password": "12345"
+    }
+]
